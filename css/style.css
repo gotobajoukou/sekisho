@@ -138,6 +138,7 @@ header nav ul li a {
   overflow: hidden;
   overflow-wrap: wrap;
   display: flex;
+  gap: 15px;
 }
 
 .item1 {
