@@ -591,19 +591,19 @@ iframe {
 
   .matter h1 {
     font-size: 16px;
-    padding: 2px 0px 2px 14px;
+    padding: 2px 0px 2px 0px;
     margin: -2px 0px 0px 0px;
   }
 
   .matter h2 {
     font-size: 16px;
-    padding: 2px 0px 2px 14px;
+    padding: 2px 0px 2px 0px;
     margin: -2px 0px 0px 0px;
   }
 
   .matter h3 {
     font-size: 16px;
-    padding: 2px 14px 2px 0px;
+    padding: 2px 0px 2px 0px;
     margin: -2px 0px 0px 0px;
   }
 
