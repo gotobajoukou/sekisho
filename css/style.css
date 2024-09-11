@@ -589,6 +589,11 @@ iframe {
     flex-direction: column;
   }
 
+  .area img {
+    width: 70vw;
+    height: 30vh;
+  }
+
   .matter h1 {
     font-size: 16px;
     padding: 2px 0px 2px 14px;
